@@ -1,0 +1,14 @@
+canvas {
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 3px 3px 2px;
+}
+
+#peer-review {
+  width: 250px;
+  height: 250px;
+}
+
+#point-distribution {
+  
+}
